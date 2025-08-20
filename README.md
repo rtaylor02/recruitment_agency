@@ -6,6 +6,7 @@ Deployed to **AWS Elastic Beanstalk** with **AWS RDS (MySQL)** for persistence a
 
 ---
 
+
 ## 📌 Features
 - 👤 **User Roles**: Job Seeker and Recruiter, each with role-specific access.
 - 📝 **Job Management**: Recruiters can create, update, and delete job postings.
