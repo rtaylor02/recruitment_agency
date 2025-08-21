@@ -100,10 +100,10 @@ mvn clean package
 ---
 
 ## 📸 Screenshots
-<img alt="landing-page" src="./img.ra1_sm.png" />
-<img alt="jobs" src="./img.ra2_sm.png" />
-<img alt="candidate-page" src="./img.ra3_sm.png" />
-<img alt="recruiter-page" src="./img.ra4_sm.png" />
+<img alt="landing-page" src="./img/ra1_sm.png" />
+<img alt="jobs" src="./img/ra2_sm.png" />
+<img alt="candidate-page" src="./img/ra3_sm.png" />
+<img alt="recruiter-page" src="./img/ra4_sm.png" />
 
 
 
