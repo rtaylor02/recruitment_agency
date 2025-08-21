@@ -100,10 +100,10 @@ mvn clean package
 ---
 
 ## 📸 Screenshots
-<img width="712" height="653" alt="image" src="https://github.com/user-attachments/assets/f83fc78c-b744-4921-b578-69e0a71aa9f7" />
-<img width="643" height="377" alt="image" src="https://github.com/user-attachments/assets/233d7955-f742-4a07-b9e6-3e55b10bf2b7" />
-<img width="849" height="676" alt="image" src="https://github.com/user-attachments/assets/ad59d931-0c91-4471-b9a2-412d75c13031" />
-<img width="874" height="670" alt="image" src="https://github.com/user-attachments/assets/49e11e4b-333d-4a43-ba59-7cdaaaa8c148" />
+<img alt="landing-page" src="./img.ra1_sm.png" />
+<img alt="jobs" src="./img.ra2_sm.png" />
+<img alt="candidate-page" src="./img.ra3_sm.png" />
+<img alt="recruiter-page" src="./img.ra4_sm.png" />
 
 
 
