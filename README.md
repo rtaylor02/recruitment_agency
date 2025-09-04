@@ -43,6 +43,21 @@ Deployed to **AWS Elastic Beanstalk** with **AWS RDS (MySQL)** for persistence a
 
 ---
 
+## 🏗️ Architecture Diagram
+
+![architecture_diagram](./assets/recruitment_agency_sm.png)
+
+---
+
+## 📸 Screenshots
+<img alt="landing-page" src="./img/ra1_sm.png" />
+<img alt="jobs" src="./img/ra2_sm.png" />
+<img alt="candidate-page" src="./img/ra3_sm.png" />
+<img alt="recruiter-page" src="./img/ra4_sm.png" />
+
+
+---
+
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the repository
@@ -104,7 +119,6 @@ mvn clean package
 <img alt="jobs" src="./img/ra2_sm.png" />
 <img alt="candidate-page" src="./img/ra3_sm.png" />
 <img alt="recruiter-page" src="./img/ra4_sm.png" />
-
 
 
 ---
